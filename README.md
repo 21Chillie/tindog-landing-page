@@ -1,3 +1,5 @@
+# 🐶 Tindog
+
 Tindog is a fun and responsive landing page inspired by Tinder, but for dogs!  
 It showcases a fictional service where dogs can connect with other dogs nearby.
 
